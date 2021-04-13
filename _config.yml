@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 include: ["_pages"]
 permalink: /:title/
 url: valters-tomsons.github.io
-baseurl: '/main'
+baseurl: '/jekyll-memoirs'
 
 # Authors
 authors:
