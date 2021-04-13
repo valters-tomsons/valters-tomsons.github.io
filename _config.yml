@@ -4,9 +4,10 @@ title: "~/"
 description: "I write?"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
 include: ["_pages"]
 permalink: /:title/
+url: valters-tomsons.github.io
+baseurl: '/main'
 
 # Authors
 authors:
