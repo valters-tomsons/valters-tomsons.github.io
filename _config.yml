@@ -8,6 +8,7 @@ include: ["_pages"]
 permalink: /:title/
 url: www.tomsons.me
 baseurl: ''
+email: 'f/xleadrvw'
 
 # Authors
 authors:
